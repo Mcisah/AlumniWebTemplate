@@ -1,0 +1,156 @@
+/*
+ * Copyright (c) 2016. McIsah Co.
+ * This is a project from the McIsah Co. Company.
+ * With All Rights Reserved.
+ */
+
+/**
+ * Created by michaelisah on 3/21/16.
+ */
+
+.about_board {
+    position: relative;
+    float: left;
+    background-color: #8A6D3A;
+    width: 70%;
+    height: 350px;
+    margin-left: 20%;
+}
+
+.about_board_header {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 90%;
+    height: auto;
+    font-size: 27px;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.inner_body_2 {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 70%;
+    height: auto;
+    margin-bottom: 50px;
+    margin-left: 20%;
+}
+
+.left_inner_body_2 {
+    width: 50%;
+    height: auto;
+    float: left;
+    position: relative;
+    background-color: transparent;
+    /* margin-left: 21%; */
+    /* margin-left: 20px; */
+}
+
+.left_inner_body_main_2 {
+    position: relative;
+    float: left;
+    margin-top: -101px;
+    display: block;
+    height: 140px;
+    width: 420px;
+    padding: 15px 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    box-sizing: border-box;
+    background-color: rgba(0, 147, 221, 0.9);
+    /* margin-left: 50px; */
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.left_inner_body_main_2_5 {
+    margin: 0 auto;
+    margin-top: -101px;
+    display: block;
+    height: 170px;
+    width: 300px;
+    padding: 15px 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    box-sizing: border-box;
+    background-color: rgba(0, 147, 221, 0.9);
+    /* margin-left: 50px; */
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.left_inner_body_other_2 {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 400px;
+    height: auto;
+    margin-bottom: 10px;
+    color: #000000;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    /* margin-left: 70px; */
+}
+
+.news_container_column_header_2 {
+    position: relative;
+    float: left;
+    height: auto;
+    width: 100%;
+    color: #000000;
+    font-size: 13px;
+    /* margin-bottom: 10px; */
+    font-weight: bold;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-top: 30px;
+}
+
+.right_inner_body_2 {
+    position: relative;
+    float: right;
+    width: 40%;
+    height: auto;
+    background-color: transparent;
+}
+
+.right_inner_body_main_2 {
+    position: relative;
+    float: right;
+    background-color: transparent;
+    width: 65%;
+    height: auto;
+    border-bottom: thin solid #dca93d;
+    /* font-weight: bold; */
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#header_logo_3 {
+    width: 204px;
+    height: 602px;
+    position: relative;
+    float: left;
+    color: #ffffff;
+    font-family: 'michael4';
+    font-size: 20px;
+    line-height: 20px;
+    background-image: url('../img/yu.svg');
+    background-repeat: no-repeat;
+    text-indent: -4000px;
+    margin-top: 50px;
+    cursor: pointer;
+    background-size: cover;
+}

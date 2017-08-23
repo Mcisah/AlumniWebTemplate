@@ -1,0 +1,118 @@
+/*
+ * Copyright (c) 2016. McIsah Co.
+ * This is a project from the McIsah Co. Company.
+ * With All Rights Reserved.
+ */
+
+/**
+ * Created by michaelisah on 3/21/16.
+ */
+
+
+.form_box {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+}
+
+.form_box_row{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+
+.form_box_column_label{
+    position: relative;
+    float: left;
+    width: 30%;
+    height: auto;
+    background-color: transparent;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    color: #000000;
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.form_box_column_input{
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 70%;
+    height: auto;
+}
+
+.form_box_input{
+    position: relative;
+    float: left;
+    border: thin solid #000000;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px;
+}
+
+.form_box_input_small{
+    position: relative;
+    float: left;
+    border: thin solid #000000;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px;
+    width: 68px;
+    height:40px;
+}
+
+.form_box_input_2_1{
+    position: relative;
+    float: left;
+    border: thin solid #000000;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px;
+    width: 200px;
+}
+
+.form_box_input_text_area{
+    position: relative;
+    float: left;
+    border: thin solid #000000;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    max-width:200px;
+    max-height: 400px;
+    min-width: 200px;
+    min-height:150px;
+}
+

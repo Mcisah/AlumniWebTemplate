@@ -1,0 +1,214 @@
+/*
+ * Copyright (c) 2015. McIsah Co.
+ * This is a project from the McIsah Co. Company.
+ * With All Rights Reserved.
+ */
+
+
+.global_base_info_container {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 125px;
+    background-color: transparent;
+}
+
+.global_base_info_content {
+    position: relative;
+    float: left;
+    padding: 10px 0px;
+    background-color: transparent;
+    color: #fff;
+    font-family: Arial;
+    text-align: center;
+    max-width: 108px;
+    min-width: 108px;
+}
+
+.global_base_info_content_label {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    color: inherit;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.global_base_info_content_value {
+    width: 100%;
+    height: auto;
+    position: relative;
+    float: left;
+    background: transparent;
+    font-size: 56px;
+    color: #fff;
+    font-weight: normal;
+}
+
+.first_content{
+    margin-left: 110px;
+}
+
+.last_content{
+    border-right: none;
+}
+
+.events_table_container{
+    position: relative;
+    float: left;
+    width:100%;
+    height:auto;
+    background-color: transparent;
+}
+
+.events_table_header{
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    border-bottom: 2px solid #dca93d;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.events_table_header_content{
+    position: relative;
+    float: left;
+    padding: 10px;
+    color: inherit;
+    font-size: inherit;
+    margin-right: 10px;
+}
+
+.events_table_row{
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    color: #555;
+    cursor: pointer;
+}
+
+.events_table_row:hover{
+    background-color: #eee;
+    color: #dca93d;
+}
+
+.add_button{
+    position: relative;
+    float: right;
+    color: #ffffff;
+    background-color: transparent;
+    font-size: 12px;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-top: 15px;
+}
+
+.add_button:hover{
+    text-decoration: none;
+    color: #dca93d;
+}
+
+.hoverline{
+    text-decoration: none;
+}
+
+.hoverline:hover{
+    text-decoration: underline;
+}
+
+.home_linker_row{
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width:100%;
+    height:auto;
+    margin-bottom: 15px;
+}
+
+.home_linker_row_buttons_2{
+    position: relative;
+    float: left;
+    padding: 7px 16px;
+    background-color: #8A6D3A;
+    border: none;
+    border-radius: 3px;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.home_linker_row_label {
+    position: relative;
+    float: left;
+    width: 100px;
+    height: auto;
+    background-color: transparent;
+    color: #000000;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.home_linker_row_buttons_section {
+    position: relative;
+    float: left;
+    width: 80%;
+    height: auto;
+    background-color: transparent;
+}
+
+.home_linker_row_buttons {
+    position: relative;
+    float: left;
+    padding: 7px 16px;
+    background-color: #dca93d;
+    border: none;
+    border-radius: 3px;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 10px;
+    cursor: pointer;
+    min-width: 100px;
+    text-align: center;
+    max-width: 100px;
+    padding-top: 12px;
+    height:19px;
+}
+
+.home_linker_row_buttons:hover{
+    background-color: #8A6D3A;
+}
+
+.none_class{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background: transparent;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #8A6D3A;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,23 @@
+<!--
+  ~ Copyright (c) 2016. McIsah Co.
+  ~ This is a project from the McIsah Co. Company.
+  ~ With All Rights Reserved.
+  -->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="588" height="1297" viewBox="0 0 588 1297">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 150px;
+        line-height: 0.5;
+      }
+
+      .cls-2 {
+        fill: #dca93d;
+        font-family: "Arial";
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <text transform="matrix(0, -1, 1, 0, 135, 1294)" class="cls-1"><tspan class="cls-2">BELLSTECH</tspan><tspan dy="0.8em" x="0" class="cls-2">ALUMNI</tspan><tspan dy="0.8em" x="0" class="cls-2">ASSOCIATION</tspan><tspan dy="0.8em" x="0" class="cls-2">ADMIN</tspan></text>
+</svg>

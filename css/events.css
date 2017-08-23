@@ -1,0 +1,164 @@
+/*
+ * Copyright (c) 2016. McIsah Co.
+ * This is a project from the McIsah Co. Company.
+ * With All Rights Reserved.
+ */
+
+/**
+ * Created by michaelisah on 3/21/16.
+ */
+
+.events_board_header {
+    position: absolute;
+    left: 0px;
+    bottom: 70px;
+    width: 90%;
+    height: auto;
+    font-size: 27px;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    padding-left: 22px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.events_left_inner_body_main_2 {
+    position: relative;
+    float: left;
+    margin-top: -69px;
+    display: block;
+    height: auto;
+    width: 103%;
+    padding: 15px 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    box-sizing: border-box;
+    background-color: rgba(0, 147, 221, 0.9);
+    /* margin-left: 50px; */
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.events_inner_body_event_box {
+    width: 100%;
+    height: auto;
+    background: transparent;
+    position: relative;
+    float: left;
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgba(220, 169, 77, 0.32);
+    margin-top: 10px;
+}
+
+.events_inner_body_event_left {
+    width: 12%;
+    height: auto;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    margin-right: 0%;
+}
+
+.events_inner_body_event_left_month {
+    width: 100%;
+    height: auto;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #199DE0;
+    font-weight: bold;
+}
+
+.events_inner_body_event_left_day {
+    width: 100%;
+    height: auto;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 27px;
+    color: #dca93d;
+    font-weight: bold;
+}
+
+
+.events_inner_body_event_right {
+    width: 88%;
+    height: auto;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    color: #000000;
+    font-size: 13px;
+    font-weight: normal;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-left: 0px;
+}
+
+.events_container_column_linker {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    font-size: 13px;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-weight: bold;
+    color: #dca93d;
+    cursor: pointer;
+}
+
+.right_inner_body_event_right_2 {
+    width: 70%;
+    height: auto;
+    position: relative;
+    float: left;
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: normal;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    margin-left: 13px;
+}
+
+.right_inner_body_2 {
+    position: relative;
+    float: right;
+    width: 32%;
+    height: auto;
+    margin-top: 53px;
+    background-color: rgba(138, 109, 58, 0.9);
+    margin-right: 12.5%;
+    padding-bottom: 20px;
+}
+
+.inner_body_2_2 {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 80%;
+    height: auto;
+    margin-bottom: 50px;
+    margin-left: 20%;
+}
+
+.events_2_left_inner_body_other_2 {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 358px;
+    height: auto;
+    margin-bottom: 10px;
+    color: #fff;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 11px;
+    /* margin-left: 70px; */
+    font-weight: normal;
+    line-height: 14px;
+}

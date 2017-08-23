@@ -1,0 +1,169 @@
+/*
+ * Copyright (c) 2016. McIsah Co.
+ * This is a project from the McIsah Co. Company.
+ * With All Rights Reserved.
+ */
+
+/**
+ * Created by michaelisah on 3/21/16.
+ */
+
+.gallery_board {
+    position: relative;
+    float: left;
+    background-color: #8A6D3A;
+    width: 70%;
+    margin-left: 20%;
+    height: 350px;
+    /* margin-left: 20%; */
+}
+
+.inner_gallery_body{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    margin-top: 30px;
+}
+
+.inner_gallery_body_row {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 80%;
+    height: auto;
+    margin-left: 16.3%;
+}
+
+.inner_gallery_body_box {
+    width: 200px;
+    height: 220px;
+    background-color: transparent;
+    position: relative;
+    float: left;
+    margin-left: 36px;
+}
+
+.inner_gallery_body_box:hover{
+    text-decoration: underline;
+}
+
+.inner_gallery_body_box_icon {
+    position: relative;
+    float: left;
+    background-size: cover;
+    background-color: transparent;
+    width: 100%;
+    height: 150px;
+    cursor: pointer;
+}
+
+.inner_gallery_body_box_label {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    margin-top: 5px;
+    height: auto;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: inherit;
+}
+
+.inner_gallery_body_box_label:hover{
+    text-decoration: underline;
+    color: #dca94d;
+}
+
+.inner_gallery_body_2 {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+}
+
+.inner_gallery_body_box_2 {
+    width: 70%;
+    height: auto;
+    background-color: transparent;
+    position: relative;
+    float: left;
+    /* margin-right: 21px; */
+    margin-left: 20%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.inner_gallery_body_box_icon_2 {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    max-width: 100%;
+    height: 450px;
+    max-height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+
+.inner_gallery_body_box_label_2{
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 100%;
+    margin-top: 5px;
+    height: auto;
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.gallery_piccer_box {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+    background-color: transparent;
+    margin-top: 10px;
+}
+
+.gallery_piccer_buttons {
+    position: relative;
+    float: left;
+    padding: 10px 20px;
+    background-color: #8A6D3A;
+    font-family: 'Helvetica Neue', 'Helvetica Neue', helvetica, arial, sans-serif;
+    color: #ffffff;
+    font-size: 13px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.gallery_piccer_buttons:hover{
+    background-color: #dca93d;
+}
+
+.gallery_container_header_2 {
+    position: relative;
+    float: left;
+    background-color: transparent;
+    width: 70%;
+    height: auto;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+    /* font-weight: bold; */
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    border-bottom: 2px solid #dca93d;
+    padding-bottom: 10px;
+    margin-left: 20%;
+    font-weight: bold;
+}
